@@ -1,6 +1,6 @@
 # resepku
-
-Aplikasi Resep Makanan
+flutter app
+Aplikasi Resep Makanan "ResepKu"
 
 ## Getting Started
 
